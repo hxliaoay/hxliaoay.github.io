@@ -35,3 +35,5 @@ https://github.com/hxliaoay/hxliaoay.github.io
 Software: QGIS, ArcMap, Word, Excel, Power Point, and Google Equivalents
 Programming: R, Java
 Languages: Native English and Mandarin Chinese
+
+![uw image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/University_of_Washington_Purple_Block_W_logo.svg/2560px-University_of_Washington_Purple_Block_W_logo.svg.png)
