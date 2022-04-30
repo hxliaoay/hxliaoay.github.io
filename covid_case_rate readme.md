@@ -1,5 +1,6 @@
 
-# Touching on Covid Cases in the United States
+#Covid-19 Rates vs Cases
+### Touching on Covid Cases in the United States
 
 Harrison Liao || GEOG 458 AD
 hxliaoay@uw.edu 
